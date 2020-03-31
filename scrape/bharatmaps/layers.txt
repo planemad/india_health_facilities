@@ -1,0 +1,5 @@
+https://webgis1.nic.in/publishing/rest/services/HealthGIS/healthgis/MapServer/0|district_hospital
+https://webgis1.nic.in/publishing/rest/services/HealthGIS/healthgis/MapServer/1|taluk_hospital
+https://webgis1.nic.in/publishing/rest/services/HealthGIS/healthgis/MapServer/2|community_health_centre
+https://webgis1.nic.in/publishing/rest/services/HealthGIS/healthgis/MapServer/3|primary_health_centre|500
+https://webgis1.nic.in/publishing/rest/services/HealthGIS/healthgis/MapServer/4|sub_center|500

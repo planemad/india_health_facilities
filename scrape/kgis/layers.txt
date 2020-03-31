@@ -1,0 +1,9 @@
+https://kgis.ksrsac.in/kgismaps1/rest/services/Health/Health/MapServer/2|district_hospital
+https://kgis.ksrsac.in/kgismaps1/rest/services/Health/Health/MapServer/3|taluk_hospital
+https://kgis.ksrsac.in/kgismaps1/rest/services/Health/Health/MapServer/4|community_health_centre
+https://kgis.ksrsac.in/kgismaps1/rest/services/Health/Health/MapServer/5|primary_health_centre|100
+https://kgis.ksrsac.in/kgismaps1/rest/services/Health/Health/MapServer/6|sub_center|100
+https://kgis.ksrsac.in/kgismaps1/rest/services/Health/Health/MapServer/28|tertiary_health_center
+https://kgis.ksrsac.in/kgismaps1/rest/services/Health/Health/MapServer/88|medical_college
+https://kgis.ksrsac.in/kgismaps1/rest/services/Health/Covid/MapServer/3|private_hospital
+https://kgis.ksrsac.in/kgismaps1/rest/services/Health/Covid/MapServer/4|patients
